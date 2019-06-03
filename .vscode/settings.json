@@ -1,0 +1,6 @@
+{
+  "prettier.jsxBracketSameLine": true,
+  "prettier.trailingComma": "es5",
+  "editor.tabSize": 4,
+  "scss.lint.importStatement": "warning"
+}
